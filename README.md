@@ -119,7 +119,7 @@ The complete interactive dashboard is available here:
 
 ## Page 1: Google Analytics Ecommerce Performance Dashboard
 
-![Dashboard Page 1](Looker_Studio_Dashboard/page_01_overview_dashboard.png)
+![Dashboard Page 1](./Looker_Studio_Dashboard/page_01_overview_dashboard.png)
 
 Includes:
 
