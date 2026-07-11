@@ -176,6 +176,7 @@ Analyse landing pages and product pages receiving organic traffic to identify op
 Promote high-revenue products through targeted campaigns and merchandising strategies.
 ## Reduce funnel drop-off:
 Investigate reasons for customer drop-off after adding products to carts. Focus engineering and UX improvements on:
+
 •	Checkout complexity and page latency.
 
 •	Hidden shipping costs or rigid delivery timelines.
