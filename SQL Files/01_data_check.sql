@@ -1,6 +1,6 @@
 -- ============================================
 -- BASIC DATA CHECK
--- Purpose: Understand dataset structure
+-- Purpose: Understanding dataset structure
 -- ============================================
 
 SELECT *
